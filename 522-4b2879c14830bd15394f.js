@@ -1,0 +1,1 @@
+(self.webpackChunkmagic_house=self.webpackChunkmagic_house||[]).push([[522],{8522:function(){}}]);
